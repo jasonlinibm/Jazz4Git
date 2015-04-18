@@ -5,7 +5,8 @@ public class HelloWorld {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO �۰ʲ��ͤ�k Stub
+		// TODO ¦Û°Ê²£¥Í¤èªk Stub
+		//中文字
         System.out.print("Hello World to GitHub from local Git4Win tool !!!");
 	}
 
